@@ -1,6 +1,3 @@
-Aquí tienes un diseño más moderno, visualmente atractivo y profesional para tu README en GitHub, con emojis y formato Markdown mejorado:
-
-```markdown
 # 🚀 ETL Pipeline - Almacenes de Datos  
 
 ![ETL Process](https://img.shields.io/badge/Process-ETL-%230077B5?style=flat&logo=databricks&logoColor=white) 
